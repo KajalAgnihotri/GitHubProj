@@ -1,1 +1,1 @@
-changing second_commit
+I am making changes to first commit
