@@ -1,0 +1,48 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Daily News</title>
+<link rel="stylesheet" href="C:/Users/Training/Desktop/GitProject/dailynews/style.css">
+<div class="header">
+  <header>
+  
+  <img src="C:/Users/Training/Desktop/GitProject/dailynews/img/dn_logo.png" class= "mainlogo" alt="daily news">
+  <img src="C:/Users/Training/Desktop/GitProject/dailynews/img/flag_logo.jpg" class="flag" alt="India">
+  
+  </header> 
+</div>
+<nav class="li">
+  <ul>
+    <li><a href="#" >News</li>
+    <li><a href="#" >Politics</li>
+    <li><a href="#" >Sports</li>
+    <li><a href="#" >Entertainment</li>
+    <li><a href="#" >lifestyle</li>
+    <li><a href="#" >Blogs</li>
+  </ul>
+  </nav>
+  <hr>
+
+  <div class="table">
+    <table>
+      <tr>
+
+        <td>
+        <a href="#" onmouseover="document.myimage1.src='C:/Users/Training/Desktop/GitProject/dailynews/img/mob.jpg';"   
+   			onmouseout="document.myimage1.src='C:/Users/Training/Desktop/GitProject/dailynews/img/pol1.jpg';">
+          <img src="C:/Users/Training/Desktop/GitProject/dailynews/img/pol1.jpg" name="myimage1" width="500px" height="400px" />
+</a>
+</td>
+      
+        </tr>
+    </table>
+
+
+ 
+ 
+
+
+
+
+
+
+  
